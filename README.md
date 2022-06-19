@@ -40,7 +40,7 @@ Designed a statistical study to compare vehicle performance of MechaCar vehicles
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/2.png"  width="90%" height="90%">
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/Summary1.png"  width="70%" height="70%">
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/Summary2.png"  width="70%" height="70%">
-<img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/Manufacturing%20Lot1%2C2%2C3.png"  width="70%" height="70%">
+
 
 
 ---
@@ -48,7 +48,7 @@ Designed a statistical study to compare vehicle performance of MechaCar vehicles
 #### Deliverable 3:T-Tests on Suspension Coils
  
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/3.png"  width="70%" height="70%">
-
+<img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/Manufacturing%20Lot3.png"  width="70%" height="70%">
 
 ---
 
