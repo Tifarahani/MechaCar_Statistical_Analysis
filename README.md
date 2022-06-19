@@ -73,16 +73,15 @@ Description of Statistical Study
 The cost of owning and maintaining a vehicle can be expensive, so AutosRUs wants to make sure their customers are getting the best value over their competitors and would like to measure the rate of depreciation for MechaCars against other manufacturers.
 
 - Metric
-Rate of depreciation (value of vehicle over time)
+   Rate of depreciation (value of vehicle over time)
 - Hypothesis
-Null hypothesis: Rate of depreciation for MechaCars is equal to their competitors
-- Alternative hypothesis: Rate of depreciation for MechaCars is not equal to their competitors
+  Null hypothesis: Rate of depreciation for MechaCars is equal to their competitors
+- Alternative hypothesis:
+   Rate of depreciation for MechaCars is not equal to their competitors
 - Statistical test
-Data analysts will use multiple linear regression to predict MechaCar's rate of depreciation
-
+  Data analysts will use multiple linear regression to predict MechaCar's rate of depreciation
 - Data needed
-In order to perform multiple linear regression to predict rate of depreciation, analysts will need vehicle values, age, and mileage.
-
+ To perform multiple linear regression to predict rate of depreciation, analysts will need vehicle values, age, and mileage.
 ---
 #### Resources:
 - R
