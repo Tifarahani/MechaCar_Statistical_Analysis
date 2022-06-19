@@ -38,9 +38,12 @@ Designed a statistical study to compare vehicle performance of MechaCar vehicles
 
 #### Deliverable 2: Create Visualizations for the Trip Analysis
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/2.png"  width="90%" height="90%">
+<p align="center">  
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/Summary1.png"  width="70%" height="70%">
+</p>
+<p align="center">  
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/Summary2.png"  width="70%" height="70%">
-
+</p>
 
 
 ---
