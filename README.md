@@ -55,6 +55,7 @@ Designed a statistical study to compare vehicle performance of MechaCar vehicles
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/T-Test%20Suspension%20Coil.png"  width="70%" height="70%">
 
 The distribution of the suspension coil dataset was visualized with a density plot, which showed that the suspension coil dataset was nearly evenly distributed.
+
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/3.png"  width="70%" height="70%">
 
 - A t-test across all suspension coil manufacturing lots gave a p-value of 0.06 Since this is above the significance level, the two means are statistically similar.
@@ -64,11 +65,9 @@ The distribution of the suspension coil dataset was visualized with a density pl
 - A t-test for Lot 1 gave a p-value of 1, which is above the significance level. The two means are statistically similar.
 
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/Manufacturing%20Lot1.png"  width="70%" height="70%">
-
 - The p-value for the Lot 2 t-test was 0.6072. This is above the significance level of 0.05 results in the two means being statistically similar.
 
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/Manufacturing%20Lot2.png"  width="70%" height="70%">
-
 - The calculated p-value from the Lot 3 t-test was 0.4168. This is above the 0.05 significance level and results in the means being statistically similar.
 
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/Manufacturing%20Lot3.png"  width="70%" height="70%">
