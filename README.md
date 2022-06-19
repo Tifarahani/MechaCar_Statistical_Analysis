@@ -69,8 +69,8 @@ The distribution of the suspension coil dataset was visualized with a density pl
 #### Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 The statistical study design has the following:
-Description of Statistical Study
-The cost of owning and maintaining a vehicle can be expensive, so AutosRUs wants to make sure their customers are getting the best value over their competitors and would like to measure the rate of depreciation for MechaCars against other manufacturers.
+* Description of Statistical Study
+* The cost of owning and maintaining a vehicle can be expensive, so AutosRUs wants to make sure their customers are getting the best value over their competitors and    would like to measure the rate of depreciation for MechaCars against other manufacturers.
 
 #### Metric:
   Rate of depreciation (value of vehicle over time)
