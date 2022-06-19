@@ -38,13 +38,13 @@ Designed a statistical study to compare vehicle performance of MechaCar vehicles
 
 #### Deliverable 2: Create Visualizations for the Trip Analysis
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/2.png"  width="90%" height="70%">
-
+---
 #### Deliverable 3:T-Tests on Suspension Coils
  
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/3.png"  width="70%" height="70%">
 <i>Figure 1:T-Tests on Suspension Coils</i>
 
-
+---
 
 #### Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
