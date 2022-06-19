@@ -73,7 +73,7 @@ Description of Statistical Study
 The cost of owning and maintaining a vehicle can be expensive, so AutosRUs wants to make sure their customers are getting the best value over their competitors and would like to measure the rate of depreciation for MechaCars against other manufacturers.
 
 - Metric:
-     Rate of depreciation (value of vehicle over time)
+  Rate of depreciation (value of vehicle over time)
 - Hypothesis
   Null hypothesis: Rate of depreciation for MechaCars is equal to their competitors
 - Alternative hypothesis:
