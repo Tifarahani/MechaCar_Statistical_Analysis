@@ -50,9 +50,14 @@ Designed a statistical study to compare vehicle performance of MechaCar vehicles
 
 #### Deliverable 3:T-Tests on Suspension Coils
  
+- A one-sample t-test is used to determine whether or not if PSI across all manufacturing lots was statistically different from the population mean of 1500 PSI.
+
+<img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/T-Test%20Suspension%20Coil.png"  width="70%" height="70%">
+
+The distribution of the suspension coil dataset was visualized with a density plot, which showed that the suspension coil dataset was nearly evenly distributed.
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/3.png"  width="70%" height="70%">
 
--A t-test across all suspension coil manufacturing lots gave a p-value of 0.06 Since this is above the significance level, the two means are statistically similar.
+- A t-test across all suspension coil manufacturing lots gave a p-value of 0.06 Since this is above the significance level, the two means are statistically similar.
 
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/T-Test.png"  width="70%" height="70%">
 
