@@ -11,16 +11,6 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 Designed a statistical study to compare vehicle performance of MechaCar vehicles against vehicles from other manufacturers
 
 ---
-#### Resources:
-- R
-    - Dependency
-        - dplyr
-- RStudio
-- Datasets
-    - [MechaCar_mpg.csv](https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/Resources/MechaCar_mpg.csv)
-    - [Suspension_Coil.csv](https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Coil.csv)
-
----
 #### Deliverable 1:Linear Regression to Predict MPG
 
 
@@ -78,7 +68,28 @@ The distribution of the suspension coil dataset was visualized with a density pl
 
 #### Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
----
-#### Summary:
+The statistical study design has the following:
+Description of Statistical Study
+The cost of owning and maintaining a vehicle can be expensive, so AutosRUs wants to make sure their customers are getting the best value over their competitors and would like to measure the rate of depreciation for MechaCars against other manufacturers.
 
+- Metric
+Rate of depreciation (value of vehicle over time)
+- Hypothesis
+Null hypothesis: Rate of depreciation for MechaCars is equal to their competitors
+- Alternative hypothesis: Rate of depreciation for MechaCars is not equal to their competitors
+- Statistical test
+Data analysts will use multiple linear regression to predict MechaCar's rate of depreciation
+
+- Data needed
+In order to perform multiple linear regression to predict rate of depreciation, analysts will need vehicle values, age, and mileage.
+
+---
+#### Resources:
+- R
+    - Dependency
+        - dplyr
+- RStudio
+- Datasets
+    - [MechaCar_mpg.csv](https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/Resources/MechaCar_mpg.csv)
+    - [Suspension_Coil.csv](https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Coil.csv)
  
