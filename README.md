@@ -12,6 +12,15 @@ Designed a statistical study to compare vehicle performance of MechaCar vehicles
 
 ---
 #### Resources:
+- R
+    - Dependency
+        - dplyr
+- RStudio
+- Datasets
+    - [MechaCar_mpg.csv](https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/Resources/MechaCar_mpg.csv)
+    - [Suspension_Coil.csv](https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Coil.csv)
+
+---
 #### Deliverable 1:Linear Regression to Predict MPG
 
 
