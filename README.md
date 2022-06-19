@@ -19,20 +19,20 @@ Designed a statistical study to compare vehicle performance of MechaCar vehicles
 <img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/1.png"  width="90%" height="70%">
 </p>
 <p align="center">  
-<img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/1.1.png"  width="70%" height="70%">
+<img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/1.1.png"  width="90%" height="70%">
 </p>
 <p align="center">  
 <i>Figure 1:Linear Regression to Predict MPG</i>
 </p>
 #### Deliverable 2: Create Visualizations for the Trip Analysis
 <p align="center">  
-<img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/2.png"  width="70%" height="70%">
+<img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/2.png"  width="90%" height="70%">
 </p>
 
 
 #### Deliverable 3:T-Tests on Suspension Coils
 <p align="center">  
-<img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/3.png"  width="70%" height="70%">
+<img src="https://github.com/Tifarahani/MechaCar_Statistical_Analysis/blob/main/img/3.png"  width="90%" height="70%">
 </p>
 <p align="center">  
 <i>Figure 1:T-Tests on Suspension Coils</i>
